@@ -6,8 +6,7 @@ theme:
     - navigation.tabs.sticky
 
 nav:
-  - 中文合成: index.md
-  - 语音识别测试: index2.md
+  - 语音合成模型测试: index.md
   # 在这里添加更多页面，如果需要
 
 extra:
