@@ -1,7 +1,7 @@
 
 ### tts模型 测试
 | model | prompt_text | prompt_audio | gen_text | gen_audio | syn_time |
-|-------|-------------|--------------|----------|-----------|----------|
+|:-------:|:-------------:|:--------------:|:----------:|:-----------:|:----------:|
 |F5-TTS|Some call me nature, others call me mother nature.|<audio controls><source src="./audio/basic_ref_en.wav" type="audio/mpeg"></audio>|I don't really care what you call me. I've been a silent spectator, watching species evolve, empires rise and fall. But always remember, I am mighty and enduring.|<audio controls><source src="./audio/F5_tts_en.wav" type="audio/mpeg"></audio>|3s|
 |fish-speech|null|null|I don't really care what you call me. I've been a silent spectator, watching species evolve, empires rise and fall. But always remember, I am mighty and enduring.|<audio controls><source src="./audio/fish_speech_en.wav" type="audio/mpeg"></audio>|22s|
 |cosyvoice（阿里）|Some call me nature, others call me mother nature.|<audio controls><source src="./audio/basic_ref_en.wav" type="audio/mpeg"></audio>|I don't really care what you call me. I've been a silent spectator, watching species evolve, empires rise and fall. But always remember, I am mighty and enduring.|<audio controls><source src="./audio/cosyvoice_en.wav" type="audio/mpeg"></audio>|6s/streaming 2s|
